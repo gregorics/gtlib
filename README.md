@@ -1,1 +1,1 @@
-# gtlib
+# Újrafelhasználható könyvtár
