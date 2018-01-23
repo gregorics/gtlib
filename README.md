@@ -1,1 +1,1 @@
-# Újrafelhasználható könyvtár
+# ÃšjrafelhasznÃ¡lhatÃ³ kÃ¶nyvtÃ¡r
